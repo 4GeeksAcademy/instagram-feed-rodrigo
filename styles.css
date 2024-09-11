@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(211, 214, 214);
+}
+
+.Encabezado {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.primera{
+    display: flex;
+    width: 600px;
+    flex-direction: column;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.segundo{
+    display: flex;
+    width: 600px;
+    flex-direction: column;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.tercero{
+    display: flex;
+    width: 600px;
+    flex-direction: column;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+
+.title{
+    display: flex;
+    background-color: white; 
+    justify-content: space-between;
+    align-items: center;
+    font-size: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.parrafo {
+    padding: 10px;
+}
